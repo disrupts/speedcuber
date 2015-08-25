@@ -4,7 +4,7 @@
 
 
 Depends on:
-  * [numpy](https://numpy.org)
+  * [numpy](http://www.numpy.org)
 
 It can load and store cubes from JSON text-files but doesn't test them for
 correctness, so solve at your own responsibility.
